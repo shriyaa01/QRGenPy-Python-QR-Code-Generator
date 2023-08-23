@@ -13,3 +13,6 @@ QRGenPy is a versatile and user-friendly Python QR code generator that empowers 
 
 - **Python-Powered:** Developed using Python, QRGenPy offers an intuitive coding experience for developers. Seamlessly integrate QR code generation into your projects.
 
+## Star and Follow
+
+If you find this project interesting or useful, please consider giving it a star ⭐ 
